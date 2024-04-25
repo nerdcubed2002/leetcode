@@ -34,7 +34,6 @@ int count(vector<int>& nums, int mid) {
             int mid=low+(high-low)/2;
             if(count(nums,mid)>k)
               {
-                ans=mid;
                 low=mid+1;
               }
               else
