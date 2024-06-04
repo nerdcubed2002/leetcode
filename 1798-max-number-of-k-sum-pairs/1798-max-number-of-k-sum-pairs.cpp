@@ -1,22 +1,17 @@
 class Solution {
 public:
-    int maxOperations(vector<int>& nums, int k) {
-        int low=0,high=nums.size()-1;
-        sort(nums.begin(),nums.end());
-        int cnt=0;
-        while(low<high)
-        {
-            if(nums[low]+nums[high]==k)
-            {
-                low++;
-                high--;
-                cnt++;
-            }
-            else if(nums[low]+nums[high]>k)
-            high--;
-            else
-            low++;
-        }
-        return cnt;
-    }
+	int maxOperations(vector<int>& nums, int k) {
+		unordered_map<int, int> m;
+		int ans = 0;
+		for(int i = 0; i < nums.size(); i++){
+			if(m[k - nums[i]] > 0){
+			   m[k - nums[i]]--;
+				ans++;
+			}
+			else{
+				m[nums[i]]++;
+			}
+		}
+		return ans;
+	}
 };
