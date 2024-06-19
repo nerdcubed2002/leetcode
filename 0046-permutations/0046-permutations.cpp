@@ -1,32 +1,25 @@
 class Solution {
 public:
-    void pick(vector<int>&nums,vector<vector<int>>&ans,vector<int>&per,int f[])
+    void pick(vector<int>&nums,vector<vector<int>>&ans,vector<int>per,int ind)
     {
         if(per.size()==nums.size())
         {
             ans.push_back(per);
             return;
         }
-
-        for(int i=0;i<nums.size();i++)
+        for(int i=ind;i<nums.size();i++)
         {
-            if(!f[i])
-            {
-                f[i]=1;
-                per.push_back(nums[i]);
-                pick(nums,ans,per,f);
-                per.pop_back();
-                f[i]=0;
-            }
+            swap(nums[i],nums[ind]);
+            per.push_back(nums[ind]);
+            pick(nums,ans,per,ind+1);
+            swap(nums[i],nums[ind]);
+            per.pop_back();
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
         vector<int>per;
-        int f[nums.size()];
-        for(int i=0;i<nums.size();i++)
-        f[i]=0;
-        pick(nums,ans,per,f);
+        pick(nums,ans,per,0);
         return ans;
     }
 };
