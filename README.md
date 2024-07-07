@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nerdcubed2002/leetcode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nerdcubed2002/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nerdcubed2002/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
