@@ -1,27 +1,26 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        istringstream iss(s);
-        vector<string> words;
-        string word;
-        
-        // Split the string into words
-        while (iss >> word) {
-            words.push_back(word);
+       int i=0,l=0,r=0;
+       int n=s.size();
+       reverse(s.begin(),s.end());
+       while(i<n)
+       {
+        while(i<n&&s[i]!=' ')
+        {
+            s[r++]=s[i++];
         }
-        
-        // Reverse the order of words
-        reverse(words.begin(), words.end());
-        
-        // Join the words back into a string
-        string result;
-        for (const auto& w : words) {
-            if (!result.empty()) {
-                result += " ";
-            }
-            result += w;
+        if(l<r)
+        {
+            reverse(s.begin()+l,s.begin()+r);
+            s[r]=' ';
+            r++;
+            l=r;
         }
-        
-        return result;
+
+        i++;
+       } 
+       s=s.substr(0,r-1);
+       return s;
     }
 };
