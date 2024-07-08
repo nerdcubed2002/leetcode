@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/nerdcubed2002/leetcode/tree/master/0937-online-stock-span) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nerdcubed2002/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nerdcubed2002/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
