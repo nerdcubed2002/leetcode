@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nerdcubed2002/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nerdcubed2002/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nerdcubed2002/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -80,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nerdcubed2002/leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
