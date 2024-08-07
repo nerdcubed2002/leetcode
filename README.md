@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nerdcubed2002/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nerdcubed2002/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nerdcubed2002/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
