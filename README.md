@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nerdcubed2002/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/nerdcubed2002/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0525-contiguous-array](https://github.com/nerdcubed2002/leetcode/tree/master/0525-contiguous-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nerdcubed2002/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nerdcubed2002/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nerdcubed2002/leetcode/tree/master/0013-roman-to-integer) |
+| [0525-contiguous-array](https://github.com/nerdcubed2002/leetcode/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nerdcubed2002/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Math
 |  |
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nerdcubed2002/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/nerdcubed2002/leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
