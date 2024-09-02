@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nerdcubed2002/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/nerdcubed2002/leetcode/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/nerdcubed2002/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nerdcubed2002/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nerdcubed2002/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
