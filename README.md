@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nerdcubed2002/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/nerdcubed2002/leetcode/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/nerdcubed2002/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/nerdcubed2002/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdcubed2002/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nerdcubed2002/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/nerdcubed2002/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/nerdcubed2002/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/nerdcubed2002/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/nerdcubed2002/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nerdcubed2002/leetcode/tree/master/0130-surrounded-regions) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nerdcubed2002/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
