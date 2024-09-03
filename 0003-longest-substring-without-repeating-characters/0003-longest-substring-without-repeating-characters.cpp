@@ -18,8 +18,9 @@ public:
                    st.erase(s[j]);
                    j++;
                 }
+                st.insert(s[i]);
             }
-            st.insert(s[i]);
+            
             len=i-j+1;
             max_len=max(len,max_len);
         }
